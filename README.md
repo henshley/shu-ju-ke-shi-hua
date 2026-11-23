@@ -20,6 +20,12 @@
 
 [按课件顺序查看 16 种案例](02-信息图形类型案例/README.md)
 
+## 03 统计图形分析（RAWGraphs 源码学习）
+
+基于 [RAWGraphs App](https://github.com/rawgraphs/rawgraphs-app)、[RAWGraphs Charts](https://github.com/rawgraphs/rawgraphs-charts) 和 [RAWGraphs Core](https://github.com/rawgraphs/rawgraphs-core)，研究数据字段、统计图形选择、Excel 表结构、分组聚合、视觉编码与信息叙事的关系。与 01 的五大数据架构及 02 的案例分类是**互补的三个维度**，不应混为一谈。
+
+[打开 03-统计图形分析](03-统计图形分析/README.md)
+
 ## 新案例补充方法
 
 1. 将案例图放入 [02 下对应的案例子文件夹](02-信息图形类型案例/README.md)，图片和说明文档使用同一案例编号。在分析中注明课件页码或原图出处，记录可见的标题、署名及图例。
