@@ -35,7 +35,7 @@ Marie Neurath 不只是把统计表照搬为图形，而是选择哪些行、哪
 
 ## 5. 原始资料
 
-- Pedersen, Pia (2017). [Behind Isotype Charts: The Design of Number-Fact Pictures](https://doi.org/10.34944/dspace/5935)，尤其参见对 Bilston 图表、单位选择、排列和信息强调的分析。
+- Pedersen, Pia (2017). [Behind Isotype Charts: The Design of Number-Fact Pictures](https://journals.uc.edu/index.php/vl/article/view/5935)，尤其参见对 Bilston 图表、单位选择、排列和信息强调的分析。
 - [Isotype Revisited — “Isotype revisited”](https://isotyperevisited.org/2010/09/isotype-revisited.php)
 
 **图片状态：** 论文和 Isotype Revisited 页面包含原作与草图图像；本档案链接来源，不将未获授权的图片另行上传。

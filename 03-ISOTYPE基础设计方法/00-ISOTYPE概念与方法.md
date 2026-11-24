@@ -78,6 +78,6 @@ ISOTYPE 并不排斥文字。标题、标签、图例和说明帮助读者正确
 - [Isotype Revisited — Introduction](https://isotyperevisited.org/2012/08/introduction.php)
 - [Isotype Revisited — “Isotype revisited”](https://isotyperevisited.org/2010/09/isotype-revisited.php)
 - [Jansen, 2009 — Neurath, Arntz and ISOTYPE](https://doi.org/10.1093/jdh/epp015)
-- [Pedersen, 2017 — Behind Isotype Charts: The Design of Number-Fact Pictures](https://doi.org/10.34944/dspace/5935)
+- [Pedersen, 2017 — Behind Isotype Charts: The Design of Number-Fact Pictures](https://journals.uc.edu/index.php/vl/article/view/5935)
 
 本文件保留并扩展了原仓库中 ISOTYPE 专题的定义、六项核心设计原则、非类型定位、案例分析维度和资料边界；新增内容用于形成可执行的学习框架。
